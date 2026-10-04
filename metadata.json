@@ -1,0 +1,6 @@
+{
+  "name": "FocusCampus - Study Tracker & Pomodoro Analytics",
+  "description": "Student focus tracker featuring customizable Pomodoro timers, subject session logging, daily goal tracking, milestone celebrations, and automated weekly productivity analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
